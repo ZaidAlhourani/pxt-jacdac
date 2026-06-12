@@ -67,4 +67,10 @@ namespace modules {
 
     //% fixedInstance whenUsed weight=2 block="potentiometer2"
     export const potentiometer2 = new PotentiometerClient("potentiometer2")
+    //% fixedInstance whenUsed weight=2 block="potentiometer3"
+    export const potentiometer3 = new PotentiometerClient("potentiometer3")
+    //% fixedInstance whenUsed weight=2 block="potentiometer4"
+    export const potentiometer4 = new PotentiometerClient("potentiometer4")
+    //% fixedInstance whenUsed weight=2 block="potentiometer5"
+    export const potentiometer5 = new PotentiometerClient("potentiometer5")
 }
