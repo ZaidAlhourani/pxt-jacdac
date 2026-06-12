@@ -1,6 +1,6 @@
 {
     "name": "jacdac-vibration-motor",
-    "version": "1.9.43",
+    "version": "1.9.44",
     "description": "A vibration motor.",
     "files": [
         "constants.ts",
